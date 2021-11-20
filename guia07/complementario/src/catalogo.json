@@ -1,0 +1,66 @@
+{
+    "Gato": [
+        {
+            "id": 1,
+            "raza": "Van Turco",
+            "pais": "Turquía",
+            "image":  "./img/cats/angora-turco.jpg"
+        },
+        {
+            "id": 2,
+            "raza": "Snowshoe",
+            "pais": "Estados Unidos",
+            "image": "./img/cats/snowshoe.jpg"
+        },
+        {
+            "id": 3,
+            "raza": "Chantilly-Tiffany",
+            "pais": "Estados Unidos",
+            "image": "./img/cats/chantilly-tiffany.jpg"
+        },
+        {
+            "id": 4,
+            "raza": "Angora Turco",
+            "pais": "Turquía",
+            "image": "./img/cats/angora-turco.jpg"
+        },
+        {
+            "id": 5,
+            "raza": "Colorpoint",
+            "pais": "Reino Unido",
+            "image": "./img/cats/colorpoint.jpg"
+        }
+    ],
+    "Perro": [
+        {
+            "id": 1,
+            "raza": "Afghan  Hound",
+            "pais": "Afganistan",
+            "image": "./img/dogs/afghan-hound.jpg"
+        },
+        {
+            "id": 2,
+            "raza": "Akita inu",
+            "pais": "Japón",
+            "image": "./img/dogs/akita-inu.jpg"
+        },
+        {
+            "id": 3,
+            "raza": "Dachshund",
+            "pais": "Alemania",
+            "image": "./img/dogs/dachshund.jpg"
+        },
+        {
+            "id": 4,
+            "raza": "Setter irlandes rojo",
+            "pais": "Irlanda",
+            "image": "./img/dogs/setter-irlandes-rojo.jpg"
+        },
+        {
+            "id": 5,
+            "raza": "Pastor del sur de Rusia",
+            "pais": "Rusia",
+            "image": "./img/dogs/pastor-del-sur-de-rusia.jpg"
+        }
+    ]
+}
